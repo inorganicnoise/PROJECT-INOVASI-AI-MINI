@@ -1,0 +1,15 @@
+# Mengabaikan file sampah kodingan Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Mengabaikan folder cache aplikasi editor (VS Code)
+.vscode/
+
+# Mengabaikan folder virtual environment (jika ada)
+venv/
+env/
+
+# Mengabaikan file sampah sistem operasi laptop
+.DS_Store
+Thumbs.db
